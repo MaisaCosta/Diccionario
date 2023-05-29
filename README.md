@@ -1,2 +1,2 @@
 # Diccionario
-Diccionario de una sola palabra html  css
+Diccionario de una sola palabra html  
